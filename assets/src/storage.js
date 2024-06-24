@@ -1,6 +1,6 @@
 // const STORAGE_TOKEN = "A4FWT6VNANE57F3YJWY8RKAO2BLJ7XU20BKY7G0X";
 // const STORAGE_URL = " https://remote-storage.developerakademie.org/item";
-const REMOTE_SERVER_URL = "https://join-d8bed-default-rtdb.europe-west1.firebasedatabase.app/";
+const REMOTE_SERVER_URL = "https://join-9579b-default-rtdb.europe-west1.firebasedatabase.app/";
 
 /**
  * The function calls the remote saved data with the key parameter.
